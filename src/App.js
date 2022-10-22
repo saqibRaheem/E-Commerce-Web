@@ -1,12 +1,12 @@
 
 import './App.css';
-import Home from './component]/Home';
-import Nav from './component]/Nav';
+import Home from './component/Home';
+import Nav from './component/Nav';
 import {Routes , Route} from 'react-router-dom'
-import Product from './component]/Product';
-import Contact from './component]/Contact';
-import About from './component]/About';
-import Products from './component]/Products';
+import Product from './component/Product';
+import Contact from './component/Contact';
+import About from './component/About';
+import Products from './component/Products';
 
 
 function App() {
